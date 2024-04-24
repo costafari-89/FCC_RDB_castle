@@ -26,3 +26,4 @@ git branch -M main
 git push -u origin main
 echo hello nano
 touch castle.sh
+ls --color=auto
