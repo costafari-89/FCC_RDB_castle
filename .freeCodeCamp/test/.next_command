@@ -47,3 +47,5 @@ nano castle.sh
 bash castle.sh
 git commit .
 git push main
+git add .
+git commit .
