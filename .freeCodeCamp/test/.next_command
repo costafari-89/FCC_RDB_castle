@@ -28,3 +28,4 @@ echo hello nano
 touch castle.sh
 ls --color=auto
 nano castle.sh
+bash castle.sh
